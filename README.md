@@ -11,7 +11,7 @@ Guia prático para iniciantes.
 - [x] Você adiciona as novas funcionalidades ao seu projeto em produção.
 - [x] Você quer deletar a branch da nova funcionalidade, depois de aplicar em seu projeto.
 
-- [] Você quer colocar seu projeto na nuvem.
+- [x] Você quer colocar seu projeto na nuvem.
 
 - `git init` // inicia a linha do tempo.
 - `git add` // adiciona ou atualiza mudanças para irem para a linha do tempo.
@@ -19,3 +19,7 @@ Guia prático para iniciantes.
 - `git log` // visualiza os pontos na linha do tempo / commit.
 - `git status` // informar o estado das alterações do nosso projeto.
 - `git show` // apresenta determinado ponto na história.
+- `git branch` // gerencia novas linhas do tempo.
+- `git checkout` // manipula as linhas do tempo.
+- `git merge` // unir linhas do tempo.
+- `git push` // envia alteração locais para o repositório remoto.
